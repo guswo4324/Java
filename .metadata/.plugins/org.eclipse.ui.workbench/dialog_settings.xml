@@ -30,9 +30,9 @@
 		<section name="ImportExportWizard.dialogBounds">
 			<item key="DIALOG_X_ORIGIN" value="386"/>
 			<item key="DIALOG_Y_ORIGIN" value="161"/>
-			<item key="DIALOG_WIDTH" value="525"/>
+			<item key="DIALOG_WIDTH" value="613"/>
 			<item key="DIALOG_HEIGHT" value="550"/>
-			<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+			<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|5|0|맑은 고딕"/>
 		</section>
 	</section>
 	<section name="FileSystemImportWizard">
@@ -45,11 +45,11 @@
 		</section>
 	</section>
 	<section name="WorkbenchPreferenceDialog.dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="64"/>
-		<item key="DIALOG_Y_ORIGIN" value="3"/>
-		<item key="DIALOG_WIDTH" value="919"/>
-		<item key="DIALOG_HEIGHT" value="875"/>
-		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+		<item key="DIALOG_X_ORIGIN" value="422"/>
+		<item key="DIALOG_Y_ORIGIN" value="188"/>
+		<item key="DIALOG_WIDTH" value="1229"/>
+		<item key="DIALOG_HEIGHT" value="660"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|5|0|맑은 고딕"/>
 	</section>
 	<section name="org.eclipse.ui.preferences.keysPreferencePage">
 	</section>
